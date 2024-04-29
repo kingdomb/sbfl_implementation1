@@ -62,6 +62,7 @@ After running the app, you can find the following results:
 
 ***Suspiciousness Values:***
 The calculated suspiciousness values are written to a CSV file in **./data/suspiciousness_table.csv**. This CSV contains the calculated values for each method.
+##ATTN: SUSPICIOUSNESS FILE NOT REMOVED ON RESET:## **./data/suspiciousness_table.csv**
 
 ***Updated JSON Data:***
 The updated test results are saved in ./data/testResults.json. This file contains the processed results, total pass/fail counts, and updated methods.
