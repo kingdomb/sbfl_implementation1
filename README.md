@@ -57,7 +57,7 @@ To set up the application, follow these steps:
 
     This will initiate the main operations, including processing test results, updating JSON files, and calculating suspiciousness values.
 
-**Results**
+## Results
 After running the app, you can find the following results:
 
 ***Suspiciousness Values:***
